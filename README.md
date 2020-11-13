@@ -8,8 +8,7 @@ This app was made using apis from OpenWeatherMap and waqi
 will tell you how to start the app.<br>
 4 . Voila! The app will start (hopefully).<br>
 
-![Alt text](/relative/path/to/?raw=true "Optional Title")
-
+<img src="https://github.com/jusspatel/global-weather/blob/main/Screenshot%20(119).png"></img>
 ## Modules Used
 * Datetime
 * Requests
