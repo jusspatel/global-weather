@@ -7,3 +7,13 @@ This app was made using apis from OpenWeatherMap and waqi
 3 . After the setup is complete, a small window will appear on the top left , which 
 will tell you how to start the app.<br>
 4 . Voila! The app will start (hopefully).<br>
+## Modules Used
+* Datetime
+* Requests
+* JSON
+* Tkinter
+* tkFont
+* PIL
+* Tkinter MessageBox
+* urllib
+* base64
