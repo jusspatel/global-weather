@@ -19,3 +19,7 @@ will tell you how to start the app.<br>
 * Tkinter MessageBox
 * urllib
 * base64
+
+## Functions
+<b>Temperature</b>: This app has it all, Current Temperature , Max/Min Temperature and Feels Like Temperature.<br>
+<b>Visibility</b>
