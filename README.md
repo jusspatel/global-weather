@@ -8,7 +8,7 @@ This app was made using apis from OpenWeatherMap and waqi
 will tell you how to start the app.<br>
 4 . Voila! The app will start (hopefully).<br>
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/?raw=true "Optional Title")
 
 ## Modules Used
 * Datetime
