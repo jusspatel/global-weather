@@ -37,7 +37,7 @@ will tell you how to start the app.<br>
 
 # Issues
 If you face any difficulties or Issues while running this app , report them at https://github.com/jusspatel/global-weather/issues <br>
-If no one gets bacxk to you in 24 hours please drop me a mail at `6782.stkabirdio@gmail.com`
+If no one gets back to you in 24 hours please drop me a mail at `6782.stkabirdio@gmail.com`
 
 # Made By Juss Patel
 ### Special Thanks to Vedant Bhalgama for helping me out with this project.
