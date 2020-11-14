@@ -22,4 +22,10 @@ will tell you how to start the app.<br>
 
 ## Functions
 <b>Temperature</b>: This app has it all, Current Temperature , Max/Min Temperature and Feels Like Temperature.<br>
-<b>Visibility</b>
+<b>Visibility</b> : It shows current Visibility (in m)of the location.<br>
+<b>Wind</b> : The app tells you about the current Wind Speed and at how many degrees the wind flows through.<br>
+<b>Pressure</b> : Current Air Pressure<br>
+<b>Humidity</b> : Water Concentration in the air (in %)<br>
+<b>Weather Description</b> : A short text describing the weather in the area. This also includes a icon describing the weather<br>
+<b>Sunrise/Sunset Time</b> : Sunrise+Sunset Time of the city.<br>
+<b>AQI</b> : As a bonus , this weather app also has an Air Quality Index System.<br>
