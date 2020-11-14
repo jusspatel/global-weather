@@ -29,3 +29,7 @@ will tell you how to start the app.<br>
 <b>Weather Description</b> : A short text describing the weather in the area. This also includes a icon describing the weather<br>
 <b>Sunrise/Sunset Time</b> : Sunrise+Sunset Time of the city.<br>
 <b>AQI</b> : As a bonus , this weather app also has an Air Quality Index System.<br>
+<b>NOTE:- The time at the top represents when the weather was last checked</b><br>
+<div align="center">
+<img src= "https://github.com/jusspatel/global-weather/blob/main/Screenshot%20(120).png"></img>
+</div>
