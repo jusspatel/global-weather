@@ -40,4 +40,3 @@ If you face any difficulties or Issues while running this app , report them at h
 If no one gets back to you in 24 hours please drop me a mail at `6782.stkabirdio@gmail.com`
 
 # Made By Juss Patel
-### Special Thanks to Vedant Bhalgama for helping me out with this project.
