@@ -1,6 +1,7 @@
-# WEATHER APP
+# WeatherIO
 This is basically a weather app with information of almost each and every place in the world . This weather app also contains live AQI
 This app was made using apis from OpenWeatherMap and waqi
+#### PLEASE NOTE THAT THIS APP SUPPORTS ONLY PYTHON 3.X FOR NOW.
 # Setup
 1 . After downloading the ZIP , <b>extract all the files in it to the same folder</b>.<br>
 2 . Now, run the file named 'setup.py' and do as the programme asks you.<br>
